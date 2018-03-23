@@ -1,4 +1,4 @@
-![Node Image Upload With Multer](node-and-multer-view)
+![Node Image Upload With Multer](node-and-multer-view.png)
 
 ## Node Image Uploading With Multer
 
